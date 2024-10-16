@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <!--
 **teahibiscus/teahibiscus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I'm Sritha!!!
+she/her, Computer Science major at University of California, Santa Cruz
+
+
+
+
+## What's going on with me...
+Currently working on the Battery Management System logic in C++ for Formula Slug⚡! 
+- learning Data Structures and Algorithms in C/C++ at UCSC
+- looking to work with others all the timeee i love teamwork!
+- check my pinned repositories, they're the ones I had the most fun in!
+- connect with me on LinkedIn hehe and message me! would love to chat
