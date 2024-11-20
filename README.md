@@ -24,4 +24,4 @@ Currently working on the Battery Management System logic in C++ for Formula Slug
 - learning Data Structures and Algorithms in C/C++ at UCSC
 - looking to work with others all the timeee i love teamwork!
 - check my pinned repositories, they're the ones I had the most fun in!
-- connect with me on LinkedIn hehe and message me! would love to chat
+- connect with me [on LinkedIn](https://www.linkedin.com/in/sritha-sthothrabhashyam/) hehe and message me! would love to chat
