@@ -19,7 +19,7 @@ she/her, Computer Science major at University of California, Irvine
 
 ## What's going on with me right now?
 Having transferred to a new university (previously at UC Santa Cruz!), I'm looking at club opportunities to get my Github popping again!
-Also looking for internships that give me an opportunity to grow as a developer and explore innovative, inspiring tech
+Also looking for internships that give me an opportunity to grow as a developer and explore innovative, inspiring tech.
 
 ## What should I check out here?
 - check my pinned repositories, they're the ones I had the most fun in!
