@@ -1,23 +1,18 @@
-# Hi, I'm Sritha!
+# Hi, I'm Sritha
 
-I'm a Computer Science student at UC Irvine interested in full-stack development, embedded systems, and practical AI applications.
+I'm a Computer Science student at UC Irvine who enjoys building software that connects technical systems with useful, approachable products.
 
-I previously led battery management software development for Formula SAE, where I worked on C++ software for real-time monitoring, fault detection, and vehicle safety. I'm currently leading a student team developing a locally hosted LLM platform and building a stock market charting application with FastAPI and Next.js.
+My experience includes C++ battery management software for Formula SAE, full-stack web development, and leading a student team building a locally hosted LLM platform. Right now, I'm working on a stock market charting application using FastAPI, Next.js, PostgreSQL, and Redis.
 
-### What I'm working on
+I'm especially interested in software engineering roles involving full-stack development, backend systems, embedded software, or applied AI.
 
-- Building a real-time stock market charting application
-- Leading development for ZotLabs' locally hosted LLM platform
-- Organizing university-wide events to connect CS students to industry companies
-- Improving my backend, system design, and deployment skills
+### Currently working with
 
-### Technologies
+Python, C++, TypeScript, FastAPI, Next.js, React, SQL, Docker, and Git
 
-Python, C++, TypeScript, JavaScript, FastAPI, Next.js, React, SQL, Docker, Git
+### A few projects worth checking out
 
-### Featured work
+- **Stock Market Analyzer**: A full-stack market charting application with real-time data updates
+- **Formula SAE BMS**: C++ software for battery monitoring, fault detection, and safety controls
 
-- **Stock Market Analyzer:** Full-stack charting platform built with FastAPI, Next.js, PostgreSQL, and Redis
-- **Formula SAE BMS:** Safety-focused C++ software for battery monitoring and fault handling
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/sritha-sth/).
+Check out my [LinkedIn](https://www.linkedin.com/in/sritha-sth/) for more!
