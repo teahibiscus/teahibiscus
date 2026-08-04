@@ -1,28 +1,23 @@
-<!--
-**teahibiscus/teahibiscus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sritha!
 
-Here are some ideas to get you started:
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student at UC Irvine interested in full-stack development, embedded systems, and practical AI applications.
 
-# I'm Sritha!!!
-she/her, Computer Science major at University of California, Irvine
+I previously led battery management software development for Formula SAE, where I worked on C++ software for real-time monitoring, fault detection, and vehicle safety. I'm currently leading a student team developing a locally hosted LLM platform and building a stock market charting application with FastAPI and Next.js.
 
+### What I'm working on
 
-## What's going on with me right now?
-Having transferred to a new university (previously at UC Santa Cruz!), I'm looking at club opportunities to get my Github popping again!
-Also looking for internships that give me an opportunity to grow as a developer and explore innovative, inspiring tech.
+- Building a real-time stock market charting application
+- Leading development for ZotLabs' locally hosted LLM platform
+- Organizing university-wide events to connect CS students to industry companies
+- Improving my backend, system design, and deployment skills
 
-## What should I check out here?
-- check my pinned repositories, they're the ones I had the most fun in!
-- (side note: I am currently fixing up some projects that I forgot to push to git... stay tuned!)
+### Technologies
 
-Connect with me [on LinkedIn](https://www.linkedin.com/in/sritha-sthothrabhashyam/) and message me! would love to chat about my work, your work, or anything else!
+Python, C++, TypeScript, JavaScript, FastAPI, Next.js, React, SQL, Docker, Git
+
+### Featured work
+
+- **Stock Market Analyzer:** Full-stack charting platform built with FastAPI, Next.js, PostgreSQL, and Redis
+- **Formula SAE BMS:** Safety-focused C++ software for battery monitoring and fault handling
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/sritha-sth/).
